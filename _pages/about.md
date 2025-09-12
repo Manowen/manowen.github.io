@@ -79,21 +79,21 @@ My research interests lie broadly in **natural language processing, machine tran
 
 - DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
 
-**Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu.
+  **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu.
 
-EMNLP 2025
+  EMNLP 2025
 
 - SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
 
-Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
+  Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
 
-EMNLP-findings 2025
+  EMNLP-findings 2025
 
 - CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
-**Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
+  **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-IEEE TASLP 2025
+  IEEE TASLP 2025
 
 
 
