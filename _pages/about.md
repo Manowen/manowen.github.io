@@ -81,71 +81,55 @@ My research interests lie broadly in **natural language processing, machine tran
 
   **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu.
 
-  <span class="rucred">EMNLP 2025</span>
+  EMNLP 2025
 
 - SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
 
   Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
 
-  <span class="rucred">EMNLP-Findings 2025</span>
+  EMNLP-Findings 2025
 
 - CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  <span class="rucred">IEEE TASLP 2025</span>
+  IEEE TASLP 2025
   
 - Dual Debiasing in LLM-based Recommendation
 
   Sijin Lu,  **Zhibo Man**, Fangyuan Luo, Jun Wu
 
-  <span class="rucred">SIGIR 2025</span>
+  SIGIR 2025
   
 - ICL: Iterative Continual Learning for Multi-domain Neural Machine Translation
 
   **Zhibo Man**, Kaiyu Huang, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  <span class="rucred">EMNLP-Findings 2024</span>
+  EMNLP-Findings 2024
   
 - A k-Nearest-Neighbor Machine Translation Method Combining Certainty Factor and Region Density
 
   Rui, Qi, Xiangyu Shi, **Zhibo Man**, Jinan Xu, and Yufeng Chen
 
-  <span class="rucred">CCL 2024</span>
+  CCL 2024
 
 - An Ensemble Strategy with Gradient Conflict for Multi-Domain Neural Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yu Li, Yuanmeng Chen, Yufeng Chen, and Jinan Xu
 
-  <span class="rucred">ACM TALLIP 2024</span>
+  ACM TALLIP 2024
 
 - WDSRL: Multi-domain neural machine translation with word-level domain-sensitive representation learning
 
   **Zhibo Man**, Zengcheng Huang, Yujie Zhang, Yu Li, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  <span class="rucred">IEEE TASLP 2023</span>
+  IEEE TASLP 2023
 
 - Exploring Domain-shared and Domain-specific Knowledge in Multi-domain Neural Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  <span class="rucred">MT SUMMIT 2023</span>
-  
-
-
-  
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='../images/TICNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Context-Aware Framework for Integrating Ad Auctions and Recommendations](https://dl.acm.org/doi/pdf/10.1145/3696410.3714779?casa_token=8lqAC8Liak8AAAAA:lbsi8gr5tQAQds4gSyTdM3a7Rl43lK1yXwjDzjOtcXOxydg_JQJfvJxQtUKGAPxbZNspu3OlGT5ZcQ)
-
-Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
-
-- *Accepted at ACM The Web Conference (WWW) 2025* <span class="rucred">Poster</span>
-
-</div>
-</div>
+  MT SUMMIT 2023
 
 
 # 🎖 Honors and Awards
