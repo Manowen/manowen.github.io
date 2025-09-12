@@ -98,7 +98,7 @@ My research interests lie broadly in **natural language processing, machine tran
 
   **Zhibo Man**, Kaiyu Huang, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
   
-- <span class="rucred">CCL 2024</span>A k-Nearest-Neighbor Machine Translation Method Combining Certainty Factor and Region Density
+- <span class="rucred">CCL 2024</span> A k-Nearest-Neighbor Machine Translation Method Combining Certainty Factor and Region Density
 
   Rui, Qi, Xiangyu Shi, **Zhibo Man**, Jinan Xu, and Yufeng Chen
 
