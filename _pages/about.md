@@ -65,33 +65,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Zhiyuan Su (Chinese name: 苏智渊), you can call me “Julian”. I am currently a **senior** undergraduate at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I was an exchange student at [University of California, Davis](https://www.ucdavis.edu/) (2025.01 -- 2025.03). Now I am also a visiting research student at [Dalhousie University](https://www.dal.ca/) (2025.07 -- 2025.10), sponsored by [Mitacs, Canada](https://www.mitacs.ca/).
+Hi there, I am Zhibo Man (满志博), you can call me “Owen”. I am currently a PhD student at [Beijing Jiaotong University](https://cs.bjtu.edu.cn/), where I was advised by [Prof. Yujie Zhang](https://faculty.bjtu.edu.cn/8356/).
 
-My research interests focus on **reinforcement learning, online learning, continual learning, recommender system, and computational advertising**. In addition, I am also interested in board application of AI models. Recently, I am focusing on:  
-(1) sequential bidding ranking algorithms;  
-(2) controllable model editing in sequential recommendation.  
-My research aims to build **intelligent systems that are elegant in theory and effective in practice**, and provide credible solutions to the urgent needs of contemporary society.
+My research interests lie broadly in **natural language processing, machine translation, large language models**. My research is driven by a long-standing interest in **computational linguistics**, with a particular focus on leveraging linguistic knowledge to advance natural language processing tasks.
+
 
 
 # 🔥 News
-- *2025.07.08*: &nbsp;🎉 Selected to receive a SIGKDD-supported KDD 2025 Student Travel Award!
-- *2025.06.30*: &nbsp;🎉 Received the presidential scholarship of **40,000 CNY** for being an outstanding exchange student at UC Davis.
-- *2025.05.15*: &nbsp;🎉 A paper about clustering of neural bandits was accepted by **KDD 2025 Research Track**. Congratulations to myself on my **first first-author paper**!
-- *2025.03.25*: &nbsp;🎉 Completed Global Study Program at UC Davis and achieved **Academic Perfection**.
-- *2025.02.03*: &nbsp;🎉 A paper about intergrating ad auctions and recommendations was accepted by **WWW 2025**. Congratulations to myself!
-- *2024.12.10*: &nbsp;🎉 Admitted to the Mitacs Globalink Research Internship **full-scholarship** summer research program.
+- *2025.08.20*: &nbsp;🎉 Two papaers was accepted by **EMNLP 2025**.
+
 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
   
-[Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity](https://dl.acm.org/doi/pdf/10.1145/3711896.3737105)
+CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
-**Zhiyuan Su**, Sunhao Dai, Xiao Zhang
+**Zhibo Man**, Sunhao Dai, Xiao Zhang
 
-- *Accepted at ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025* <span class="rucred">Oral</span>
-- [**<span style="color:#548656">Watch our promotional video on YouTube!</span>**](https://www.youtube.com/watch?v=lATSWn7t_Xc)
+-
 
 </div>
 </div>
