@@ -78,13 +78,11 @@ My research interests lie broadly in **natural language processing, machine tran
 # 📝 Publications 
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=yqyz-1MAAAAJ&view_op=list_works&sortby=pubdate))
 
-- DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
+- <span class="rucred">EMNLP 2025</span> DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
 
   **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu
 
-  EMNLP 2025
-
-- SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
+- <span class="rucred">EMNLP 2025</span> SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
 
   Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
 
