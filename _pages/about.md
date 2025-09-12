@@ -66,7 +66,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi there, I am Zhibo Man (满志博), you can call me “Owen”. I am currently a PhD student at [Beijing Jiaotong University](https://cs.bjtu.edu.cn/), where I was advised by [Prof. Yujie Zhang](https://faculty.bjtu.edu.cn/8356/).
-
 My research interests lie broadly in **natural language processing, machine translation, large language models**. My research is driven by a long-standing interest in **computational linguistics**, with a particular focus on leveraging linguistic knowledge to advance natural language processing tasks.
 
 
@@ -82,6 +81,8 @@ DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain T
 
 **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu.
 
+EMNLP 2025
+
 </div>
 </div>
 
@@ -89,12 +90,16 @@ SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Lang
 
 Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
 
+EMNLP-findings 2025
+
 </div>
 </div>
 
 CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
 **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
+
+IEEE TASLP 2025
 
 </div>
 </div>
