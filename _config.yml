@@ -6,9 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiyuan (Julian) Su"
-description              : "\"Everything that rises must converge.\""
-repository               : "zhiyuansu0326/zhiyuansu0326.github.io"
+title                    : "Zhibo Man"
+description              : "\"Think like a famer.\""
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +20,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiyuan (Julian) Su"
-  avatar           : "images/szy1.png"
-  bio              : "Gaoling School of Artificial Intelligence, Renmin University of China"
+  name             : "Zhibo Man"
+  avatar           : "images/manzhibo.png"
+  bio              : "School of Computer Science, Beijing Jiaotong University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5T0sVTgAAAAJ&hl"
-  email            : "ayinor0713@ruc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yqyz-1MAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "zhiboman@bjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +36,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhiyuansu0326"
+  github           : 
   google_plus      :
   keybase          : 
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/feed/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0008-9117-7923"
+  orcid            : "https://orcid.org/0009-0002-3336-5703"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
