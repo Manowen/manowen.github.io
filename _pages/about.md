@@ -144,6 +144,8 @@ My research interests lie broadly in **natural language processing, machine tran
   
 - *2021.10 – 2022.01*: &nbsp;🇨🇳 *Research Intern*, Langboat Tech.
 
+  *- Project: Machine Translation*
+
 
 # 💼 Services
 - Conference Reviewer: ACL Rolling Review (ACL, EMNLP, and NAACL, etc.), CCMT 2025.
@@ -152,7 +154,7 @@ My research interests lie broadly in **natural language processing, machine tran
 
 # 🪽 Beyond Academics
 
-I love reading and traveling. I long for a free and independent life, and I hope that in the future I can have my own little shop &nbsp; 😄, something like a café &nbsp;☕️ or a bookstore &nbsp;📖.
+I love reading and traveling. I long for a free and independent life, and I hope that in the future I can have my own little shop 😄, something like a café ☕️ or a bookstore 📖.
 
 
 
