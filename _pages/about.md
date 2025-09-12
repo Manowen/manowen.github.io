@@ -87,16 +87,19 @@ My research interests lie broadly in **natural language processing, machine tran
 
   Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
 
-  EMNLP-findings 2025
+  EMNLP-Findings 2025
 
 - CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
   IEEE TASLP 2025
+  
+- Dual Debiasing in LLM-based Recommendation
 
+  Sijin Lu,  **Zhibo Man**, Fangyuan Luo,  Jun Wu
 
-
+  SIGIR 2025
 
 
 
