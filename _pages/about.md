@@ -65,7 +65,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Zhibo Man (满志博), you can call me “Owen”. I am currently a PhD student at [Beijing Jiaotong University](https://cs.bjtu.edu.cn/), where I was advised by [Prof. Yujie Zhang](https://faculty.bjtu.edu.cn/8356/).
+Hi there, I am Zhibo Man (满志博), you can call me “Owen”. I am currently a Ph.D. student at [Beijing Jiaotong University](https://cs.bjtu.edu.cn/), where I was advised by [Prof. Yujie Zhang](https://faculty.bjtu.edu.cn/8356/).
 My research interests lie broadly in **natural language processing, machine translation, large language models**. My research is driven by a long-standing interest in **computational linguistics**, with a particular focus on leveraging linguistic knowledge to advance natural language processing tasks.
 
 
