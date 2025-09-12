@@ -132,24 +132,7 @@ My research interests lie broadly in **natural language processing, machine tran
   MT SUMMIT 2023
 
 
-# 🎖 Honors and Awards
-- *2025.07*: &nbsp;💰 SIGKDD-supported KDD 2025 *Student Travel Award* – 1,000 USD
-- *2025.06*: &nbsp;💰 *Presidential Scholarship* for Outstanding International Exchange – 40,000 CNY
-- *2025.04*: &nbsp;💰 *Municipal Approval* for Student Innovation Project – 7,500 CNY
-- *2025.01*: &nbsp;💰 Mitacs Globalink Internship Scholarship – 6,000 CAD
-- *2024.12*: &nbsp;🏆 *National Second Prize*, 19th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works
-- *2024.10*: &nbsp;🏆 *Second Prize*, Beijing Mathematical Contest in Modeling
-- *2024.10*: &nbsp;💰 *Second-class* Academic Scholarship – 3,000 CNY
-- *2024.04*: &nbsp;💰 *Municipal Approval* for Student Innovation Project – 7,500 CNY
 
-# 📖 Educations
-- *2025.01 – 2025.03*: &nbsp;🇺🇸 **Global Study Program, University of California, Davis**
-  
-  *- Major: Mathematics & Statistics, Graduated with Academic Perfection*
-
-- *2022.09 – Present*: &nbsp;🇨🇳 **Gaoling School of Artificial Intelligence, Renmin University of China**
-  
-  *- Bachelor of Engineering in Artificial Intelligence, Supervisors: [Dr. Qi Qi](https://gsai.ruc.edu.cn/qiqi), [Dr. Xiao Zhang](https://pinkfloyd1989.github.io/Xiao_Zhang/)*
 
 
 # 💻 Work Experiences
