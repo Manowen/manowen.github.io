@@ -71,7 +71,7 @@ My research interests lie broadly in **natural language processing, machine tran
 
 
 # 🔥 News
-- *2025.08.20*: &nbsp;🎉 Two papaers was accepted by **EMNLP 2025**.
+- *2025.08.20*: &nbsp;🎉 Two papaers were accepted by **EMNLP 2025**.
 
 
 
