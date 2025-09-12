@@ -136,43 +136,22 @@ My research interests lie broadly in **natural language processing, machine tran
 
 
 # 💻 Work Experiences
-- *2025.07 – 2025.10*: &nbsp;🇨🇦 *Mitacs Globalink Research Intern & Visiting Research Student*, [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html), Dalhousie University
+- *2023.12 – 2024.04*: &nbsp;🇨🇳 *Research Intern*, Lenovo AI Research.
 
-  *- Lab: [Dalhousie Applied Machine Learning Research Lab](https://web.cs.dal.ca/~gaw/), Collaborator: [Dr. Ga Wu](https://wuga214.github.io/)*
+  *- Lab: Group Intelligent Decision*
   
-  *- Project: AI safety for recommender systems in social media services*
+  *- Project: LLM-based Agent*
   
-- *2024.05 – 2024.09*: &nbsp;🇨🇳 *Summer Intern*, Pinecone Talent Elite Project, Baidu Inc.
+- *2021.10 – 2022.01*: &nbsp;🇨🇳 *Research Intern*, Langboat Tech.
 
 
 # 💼 Services
-- Artifact badging reviewer, KDD 2025
+- Conference Reviewer: ACL Rolling Review (ACL, EMNLP, and NAACL, etc.), CCMT 2025
+- Journal Reviewer: Natural Language Processing, Applied Intelligence, ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP).
 
 
 # 🪽 Beyond Academics
 
-I love **music, literature, travel and badminton**. I am a **campus singer** at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC. I am also a **musician at NetEase Cloud Music**, and my stage name is [艾诺 Ayinor](http://music.163.com/#/artist?id=36180214). Recently, I am also working on my own new song, so stay tuned!
-
-
-# 🌍 Visitor Map
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
 
 
 
-<div class="logo-row">
-  <img src="../images/ruc_logo.png"      alt="">
-  <img src="../images/ucdavis_logo.png"  alt="">
-  <img src="../images/dal_logo.png"      alt="">
-  <img src="../images/mitacs_logo.png"      alt="">
-</div>
-
-
-<footer class="site-footer">
-  <p>&copy; 2025 Zhiyuan Su. All rights reserved.</p>
-  <p>
-    Template adapted from
-    <a href="https://github.com/RayeRen/acad-homepage.github.io"
-       target="_blank" rel="noopener">Yi Ren</a>.
-  </p>
-</footer>
