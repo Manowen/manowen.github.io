@@ -81,55 +81,55 @@ My research interests lie broadly in **natural language processing, machine tran
 
   **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu.
 
-  EMNLP 2025
+  <span class="rucred">EMNLP 2025</span>
 
 - SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
 
   Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
 
-  EMNLP-Findings 2025
+  <span class="rucred">EMNLP-Findings 2025</span>
 
 - CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  IEEE TASLP 2025
+  <span class="rucred">IEEE TASLP 2025</span>
   
 - Dual Debiasing in LLM-based Recommendation
 
   Sijin Lu,  **Zhibo Man**, Fangyuan Luo, Jun Wu
 
-  SIGIR 2025
+  <span class="rucred">SIGIR 2025</span>
   
 - ICL: Iterative Continual Learning for Multi-domain Neural Machine Translation
 
   **Zhibo Man**, Kaiyu Huang, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  EMNLP-Findings 2024
+  <span class="rucred">EMNLP-Findings 2024</span>
   
 - A k-Nearest-Neighbor Machine Translation Method Combining Certainty Factor and Region Density
 
   Rui, Qi, Xiangyu Shi, **Zhibo Man**, Jinan Xu, and Yufeng Chen
 
-  CCL 2024
+  <span class="rucred">CCL 2024</span>
 
 - An Ensemble Strategy with Gradient Conflict for Multi-Domain Neural Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yu Li, Yuanmeng Chen, Yufeng Chen, and Jinan Xu
 
-  ACM TALLIP 2024
+  <span class="rucred">ACM TALLIP 2024</span>
 
 - WDSRL: Multi-domain neural machine translation with word-level domain-sensitive representation learning
 
   **Zhibo Man**, Zengcheng Huang, Yujie Zhang, Yu Li, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  IEEE TASLP 2023
+  <span class="rucred">IEEE TASLP 2023</span>
 
 - Exploring Domain-shared and Domain-specific Knowledge in Multi-domain Neural Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  MT SUMMIT 2023
+  <span class="rucred">MT SUMMIT 2023</span>
   
 
 
