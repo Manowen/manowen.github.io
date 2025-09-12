@@ -75,7 +75,8 @@ My research interests lie broadly in **natural language processing, machine tran
 
 
 
-# 📝 Publications ([Google Scholar](https://scholar.google.com/citations?hl=en&user=yqyz-1MAAAAJ&view_op=list_works&sortby=pubdate))
+# 📝 Publications 
+([Google Scholar](https://scholar.google.com/citations?hl=en&user=yqyz-1MAAAAJ&view_op=list_works&sortby=pubdate))
 
 - DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
 
