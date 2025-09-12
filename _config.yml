@@ -22,7 +22,6 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhibo Man"
   avatar           : "images/manzhibo.png"
-  bio              : "School of Computer Science, Beijing Jiaotong University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -42,7 +41,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/feed/"
+  linkedin         : "满志博"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0002-3336-5703"
   pinterest        :
