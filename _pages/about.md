@@ -75,7 +75,7 @@ My research interests lie broadly in **natural language processing, machine tran
 
 
 
-# 📝 Publications
+# 📝 Publications ([Google Scholar](https://scholar.google.com/citations?hl=en&user=yqyz-1MAAAAJ&view_op=list_works&sortby=pubdate))
 
 - DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
 
@@ -97,11 +97,43 @@ My research interests lie broadly in **natural language processing, machine tran
   
 - Dual Debiasing in LLM-based Recommendation
 
-  Sijin Lu,  **Zhibo Man**, Fangyuan Luo,  Jun Wu
+  Sijin Lu,  **Zhibo Man**, Fangyuan Luo, Jun Wu
 
   SIGIR 2025
+  
+- ICL: Iterative Continual Learning for Multi-domain Neural Machine Translation
+
+  **Zhibo Man**, Kaiyu Huang, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
+
+  EMNLP-Findings 2024
+  
+- A k-Nearest-Neighbor Machine Translation Method Combining Certainty Factor and Region Density
+
+  Rui, Qi, Xiangyu Shi, **Zhibo Man**, Jinan Xu, and Yufeng Chen
+
+  CCL 2024
+
+- An Ensemble Strategy with Gradient Conflict for Multi-Domain Neural Machine Translation
+
+  **Zhibo Man**, Yujie Zhang, Yu Li, Yuanmeng Chen, Yufeng Chen, and Jinan Xu
+
+  ACM TALLIP 2024
+
+- WDSRL: Multi-domain neural machine translation with word-level domain-sensitive representation learning
+
+  **Zhibo Man**, Zengcheng Huang, Yujie Zhang, Yu Li, Yuanmeng Chen, Yufeng Chen, Jinan Xu
+
+  IEEE TASLP 2023
+
+- Exploring Domain-shared and Domain-specific Knowledge in Multi-domain Neural Machine Translation
+
+  **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
+
+  MT SUMMIT 2023
+  
 
 
+  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='../images/TICNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
