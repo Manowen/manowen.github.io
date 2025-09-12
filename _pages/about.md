@@ -80,57 +80,39 @@ My research interests lie broadly in **natural language processing, machine tran
 
 - <span class="rucred">EMNLP 2025</span> DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
 
-  **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu
+   **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu
 
-- <span class="rucred">EMNLP 2025</span> SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
+- <span class="rucred">EMNLP-Findings 2025</span> SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
 
-  Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
+   Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
 
-  EMNLP-Findings 2025
-
-- CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
+- <span class="rucred">IEEE TASLP 2025</span> CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
-
-  IEEE TASLP 2025
   
-- Dual Debiasing in LLM-based Recommendation
+- <span class="rucred">SIGIR 2025</span> Dual Debiasing in LLM-based Recommendation
 
   Sijin Lu,  **Zhibo Man**, Fangyuan Luo, Jun Wu
 
-  SIGIR 2025
-  
-- ICL: Iterative Continual Learning for Multi-domain Neural Machine Translation
+- <span class="rucred">EMNLP-Findings 2024</span> ICL: Iterative Continual Learning for Multi-domain Neural Machine Translation
 
   **Zhibo Man**, Kaiyu Huang, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
-
-  EMNLP-Findings 2024
   
-- A k-Nearest-Neighbor Machine Translation Method Combining Certainty Factor and Region Density
+- <span class="rucred">CCL 2024</span>A k-Nearest-Neighbor Machine Translation Method Combining Certainty Factor and Region Density
 
   Rui, Qi, Xiangyu Shi, **Zhibo Man**, Jinan Xu, and Yufeng Chen
 
-  CCL 2024
-
-- An Ensemble Strategy with Gradient Conflict for Multi-Domain Neural Machine Translation
+- <span class="rucred">ACM TALLIP 2024</span> An Ensemble Strategy with Gradient Conflict for Multi-Domain Neural Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yu Li, Yuanmeng Chen, Yufeng Chen, and Jinan Xu
 
-  ACM TALLIP 2024
-
-- WDSRL: Multi-domain neural machine translation with word-level domain-sensitive representation learning
+- <span class="rucred">IEEE TASLP 2023</span> WDSRL: Multi-domain neural machine translation with word-level domain-sensitive representation learning
 
   **Zhibo Man**, Zengcheng Huang, Yujie Zhang, Yu Li, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
-  IEEE TASLP 2023
-
-- Exploring Domain-shared and Domain-specific Knowledge in Multi-domain Neural Machine Translation
+- <span class="rucred">MT SUMMIT 2023</span> Exploring Domain-shared and Domain-specific Knowledge in Multi-domain Neural Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
-
-  MT SUMMIT 2023
-
-
 
 # 💻 Work Experiences
 - *2023.12 – 2024.04*: &nbsp;🇨🇳 *Research Intern*, Lenovo AI Research.
