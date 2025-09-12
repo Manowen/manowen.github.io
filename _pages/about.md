@@ -78,12 +78,28 @@ My research interests lie broadly in **natural language processing, machine tran
 
 # 📝 Publications
 
-  
+DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
+
+**Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu.
+
+</div>
+</div>
+
+SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
+
+Rui Qi, **Zhibo Man**, Yufeng Chen, Fengran Mo, Jinan Xu, Kaiyu Huang
+
+</div>
+</div>
+
 CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
-**Zhibo Man**, Sunhao Dai, Xiao Zhang
+**Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
--
+</div>
+</div>
+
+
 
 </div>
 </div>
