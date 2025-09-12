@@ -80,7 +80,7 @@ My research interests lie broadly in **natural language processing, machine tran
 
 - DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
 
-  **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu.
+  **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu
 
   EMNLP 2025
 
@@ -134,8 +134,6 @@ My research interests lie broadly in **natural language processing, machine tran
 
 
 
-
-
 # 💻 Work Experiences
 - *2023.12 – 2024.04*: &nbsp;🇨🇳 *Research Intern*, Lenovo AI Research.
 
@@ -155,7 +153,7 @@ My research interests lie broadly in **natural language processing, machine tran
 
 # 🪽 Beyond Academics
 
-I love reading and traveling. I long for a free and independent life, and I hope that in the future I can have my own little shop 😄, something like a café ☕️ or a bookstore 📖.
+- I love reading and traveling. I long for a free and independent life, and I hope that in the future I can have my own little shop 😄, something like a café ☕️ or a bookstore 📖.
 
 
 
