@@ -132,7 +132,7 @@ My research interests lie broadly in **natural language processing, machine tran
 
 # 💼 Services
 - Conference Reviewer: ACL Rolling Review (ACL, EMNLP, NAACL, etc.), CCMT 2025.
-- Journal Reviewer: Natural Language Processing, Applied Intelligence, ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP).
+- Journal Reviewer: Natural Language Processing (NLP), Applied Intelligence (APIN), ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP).
 
 
 # 🪽 Beyond Academics
