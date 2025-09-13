@@ -89,6 +89,10 @@ My research interests lie broadly in **natural language processing, machine tran
 - <span class="rucred">IEEE TASLP 2025</span> CCKA: Continual Cross-Domain Knowledge Adaptation for Multi-Domain Machine Translation
 
   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
+
+- <span class="rucred">CCL 2025</span>Word Semantic Disambiguation via Topic Steering in Multi-Domain Translation
+
+   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
   
 - <span class="rucred">SIGIR 2025</span> Dual Debiasing in LLM-based Recommendation
 
