@@ -71,6 +71,9 @@ My research interests lie broadly in **natural language processing (NLP), machin
 
 
 # 🔥 News
+
+- *2025.11.15*: &nbsp;🎉 I am currently a visiting student at the **iNLP lab** of the Singapore University of Technology and Design (SUTD), supervised by [Prof. Wenxuan Zhang](https://isakzhang.github.io/).
+
 - *2025.08.20*: &nbsp;🎉 Two papers were accepted by **EMNLP 2025**.
 
 
