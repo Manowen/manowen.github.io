@@ -71,6 +71,7 @@ My research interests lie broadly in **natural language processing (NLP), machin
 
 
 # 🔥 News
+- *2026.04.07*: &nbsp;🎉 One papers were accepted by **ACL 2026**.
 
 - *2025.11.15*: &nbsp;🎉 I am currently a visiting student at the **iNLP lab** of the Singapore University of Technology and Design (SUTD), supervised by [Prof. Wenxuan Zhang](https://isakzhang.github.io/).
 
@@ -80,10 +81,17 @@ My research interests lie broadly in **natural language processing (NLP), machin
 
 # 📝 Publications 
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=yqyz-1MAAAAJ&view_op=list_works&sortby=pubdate))
+- <span class="rucred">ACL-Findings 2026</span> Can Multi-agent Help Disambiguation in Multi-domain Translation?
+
+   **Zhibo Man**, Shaoyang Xu, Yujie Zhang, Yi Feng, Yuanmeng Chen, Yufeng Chen, Xu Jinan, Wenxuan Zhang
+
+- <span class="rucred">ESWA</span> DKF: Domain Knowledge Fusion in Progressive Incremental Learning for Multi-domain Machine Translation
+
+   **Zhibo Man**, Shaoyang Xu, Yujie Zhang, Yi Feng, Yuanmeng Chen, Yufeng Chen, Xu Jinan, Wenxuan Zhang
 
 - <span class="rucred">EMNLP 2025</span> DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
 
-   **Zhibo Man**, Yuanmeng Chen, Yujie Zhang, Jinan Xu
+   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
 
 - <span class="rucred">EMNLP-Findings 2025</span> SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
 
