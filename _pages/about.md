@@ -85,7 +85,7 @@ My research interests lie broadly in **natural language processing (NLP), machin
 
    **Zhibo Man**, Shaoyang Xu, Yujie Zhang, Yi Feng, Yuanmeng Chen, Yufeng Chen, Xu Jinan, Wenxuan Zhang
 
-- <span class="rucred">ESWA</span> DKF: Domain Knowledge Fusion in Progressive Incremental Learning for Multi-domain Machine Translation
+- <span class="rucred">ESWA 2026</span> DKF: Domain Knowledge Fusion in Progressive Incremental Learning for Multi-domain Machine Translation
 
    **Zhibo Man**, Shaoyang Xu, Yujie Zhang, Yi Feng, Yuanmeng Chen, Yufeng Chen, Xu Jinan, Wenxuan Zhang
 
