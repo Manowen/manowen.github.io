@@ -89,11 +89,11 @@ My research interests lie broadly in **natural language processing (NLP), machin
 
 - <span class="rucred">ESWA 2026</span> DKF: Domain Knowledge Fusion in Progressive Incremental Learning for Multi-domain Machine Translation
 
-   **Zhibo Man**, Shaoyang Xu, Yujie Zhang, Yi Feng, Yuanmeng Chen, Yufeng Chen, Xu Jinan, Wenxuan Zhang
-
+   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
+  
 - <span class="rucred">EMNLP 2025</span> DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation
 
-   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Yufeng Chen, Jinan Xu
+   **Zhibo Man**, Yujie Zhang, Yuanmeng Chen, Jinan Xu
 
 - <span class="rucred">EMNLP-Findings 2025</span> SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models
 
