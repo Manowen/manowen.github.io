@@ -73,6 +73,8 @@ My research interests lie broadly in **natural language processing (NLP), machin
 # 🔥 News
 - *2026.04.07*: &nbsp;🎉 One paper was accepted by **ACL 2026**.
 
+- *2026.02*: &nbsp;🎉 New project [MoltNet](https://inlp-lab.github.io/MoltNet/) — understanding social behavior of AI agents in the agent-native MoltBook — is now available on arXiv.
+  
 - *2025.11.15*: &nbsp;🎉 I am currently a visiting student at the **iNLP lab** of the Singapore University of Technology and Design (SUTD), supervised by [Prof. Wenxuan Zhang](https://isakzhang.github.io/).
 
 - *2025.08.20*: &nbsp;🎉 Two papers were accepted by **EMNLP 2025**.
