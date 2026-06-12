@@ -71,6 +71,8 @@ My research interests lie broadly in **natural language processing (NLP), machin
 
 
 # 🔥 News
+- *2026.6.12*: &nbsp;🎉 I will join the University of Turku (UTU) and European Laboratory for Learning and Intelligent Systems (ELLIS) as a postdoctoral researcher starting in August 2026, supervised by [Prof. Shaoxiong Ji](https://shaoxiongji.github.io/).
+
 - *2026.04.07*: &nbsp;🎉 One paper was accepted by **ACL 2026**.
 
 - *2026.02*: &nbsp;🎉 New project [MoltNet](https://inlp-lab.github.io/MoltNet/) — understanding social behavior of AI agents in the agent-native MoltBook — is now available on arXiv.
