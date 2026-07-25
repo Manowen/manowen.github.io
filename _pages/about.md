@@ -69,7 +69,7 @@ Hi there, I am Zhibo Man (满志博), and you can call me “Owen”. I am curre
 
 My research interests lie broadly in **natural language processing (NLP), machine translation (MT), multi-lingual LLMs, and agents**. My research is driven by a long-standing interest in **computational linguistics (CL)**, with a particular focus on leveraging linguistic knowledge to advance natural language processing tasks.
 
-满志博，目前为北欧人芬兰工智能研究院&图尔库大学博士后研究员，合作导师为季少雄助理教授，研究方向为自然语言处理、大语言模型、多语言多智能体。2026年6月博士毕业于北京交通大学，师从张玉洁教授，在读博士期间前往新加坡科技设计大学联合培养6个月，合作导师为张雯轩助理教授。在读期间发表多篇领域内顶级会议（ACL、EMNLP）以及顶级期刊论文。研究兴趣主要致力于利用语言学知识提升大语言模型的性能，将大语言模型应用落地、打造公平、公正、多元化的人工智能模型。
+满志博，目前为北欧人芬兰工智能研究院&图尔库大学博士后研究员，合作导师为季少雄助理教授。2026年6月博士毕业于北京交通大学，师从张玉洁教授，在读博士期间前往新加坡科技设计大学联合培养6个月，合作导师为张雯轩助理教授。在读期间发表多篇领域内顶级会议（ACL、EMNLP）以及顶级SCI期刊论文共20余篇，并在联想人工智能研究院实习3个月。主要研究方向为自然语言处理、大语言模型、多语言多智能体，主要致力于利用语言学知识提升大语言模型的性能，将大语言模型应用落地、打造公平、公正、多元化的人工智能模型。
 
 # 🔥 News
 - *2026.06.12*: &nbsp;🎉 I will join the University of Turku (UTU) and European Laboratory for Learning and Intelligent Systems (ELLIS) as a postdoctoral researcher starting in August 2026, supervised by [Prof. Shaoxiong Ji](https://shaoxiongji.github.io/).
