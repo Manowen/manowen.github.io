@@ -87,6 +87,10 @@ My research interests lie broadly in **natural language processing (NLP), machin
 
 # 📝 Publications 
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=yqyz-1MAAAAJ&view_op=list_works&sortby=pubdate))
+- <span class="rucred">COLM 2026</span> MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook
+  
+  Yi Feng, Chen Huang, **Zhibo Man**, Ryner Tan, Long P. Hoang, Shaoyang Xu, Wenxuan Zhang
+  
 - <span class="rucred">ACL-Findings 2026</span> Can Multi-agent Help Disambiguation in Multi-domain Translation?
 
    **Zhibo Man**, Shaoyang Xu, Yujie Zhang, Yi Feng, Yuanmeng Chen, Yufeng Chen, Xu Jinan, Wenxuan Zhang
