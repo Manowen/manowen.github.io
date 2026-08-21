@@ -65,7 +65,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Zhibo Man (满志博), and you can call me “Owen”. I am currently a postdoctoral researcher at the  [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/) and the [University of Turku (UTU)](https://www.utu.fi/en), Finland, supervised by [Prof. Shaoxiong Ji](https://shaoxiongji.github.io/). I received my Ph.D. degree from [Beijing Jiaotong University (BJTU)](https://cs.bjtu.edu.cn/) in 2026, where I was advised by [Prof. Yujie Zhang](https://faculty.bjtu.edu.cn/8356/).
+Hi there, I am Zhibo Man (满志博), and you can call me “Owen”. I am currently a postdoctoral researcher at the  [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/) and the [University of Turku (UTU)](https://www.utu.fi/en/people/zhibo-man), Finland, supervised by [Prof. Shaoxiong Ji](https://shaoxiongji.github.io/). I received my Ph.D. degree from [Beijing Jiaotong University (BJTU)](https://cs.bjtu.edu.cn/) in 2026, where I was advised by [Prof. Yujie Zhang](https://faculty.bjtu.edu.cn/8356/).
 
 My research interests lie broadly in **natural language processing (NLP), machine translation (MT), multi-lingual LLMs, and agents**. My research is driven by a long-standing interest in **computational linguistics (CL)**, with a particular focus on leveraging linguistic knowledge to advance natural language processing tasks.
 
